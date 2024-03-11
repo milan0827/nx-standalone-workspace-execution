@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@myorg/api": ["directory=libs/api/src/index.ts"],
       "@myorg/frontend/pages/consultant": [
         "libs/frontend/pages/consultant/src/index.ts"
       ],
