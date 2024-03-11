@@ -1,0 +1,8 @@
+{
+  "name": "frontend-pages-patients-pages",
+  "$schema": "../../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/frontend/pages/patients/pages/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
