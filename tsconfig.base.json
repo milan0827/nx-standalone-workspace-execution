@@ -24,6 +24,12 @@
       "@myorg/frontend/pages/patients/pages": [
         "libs/frontend/pages/patients/pages/src/index.ts"
       ],
+      "@myorg/frontend/pages/users/pages": [
+        "libs/frontend/pages/users/pages/src/index.ts"
+      ],
+      "@myorg/frontpage/pages/users/pages": [
+        "libs/frontpage/pages/users/pages/src/index.ts"
+      ],
       "@myorg/login": ["libs/frontend/login-page/src/index.ts"],
       "@myorg/page": ["page/src/index.ts"],
       "@myorg/pages": ["libs/frontend/pages/login/src/index.ts"]
