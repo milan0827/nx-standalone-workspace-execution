@@ -15,15 +15,28 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@myorg/frontend/pages/consultant": [
+        "libs/frontend/pages/consultant/src/index.ts"
+      ],
       "@myorg/frontend/pages/consultant/pages": [
         "libs/frontend/pages/consultant/pages/src/index.ts"
+      ],
+      "@myorg/frontend/pages/dashboard": [
+        "libs/frontend/pages/dashboard/src/index.ts"
       ],
       "@myorg/frontend/pages/dashboard/pages": [
         "libs/frontend/pages/dashboard/pages/src/index.ts"
       ],
+      "@myorg/frontend/pages/department": [
+        "libs/frontend/pages/department/src/index.ts"
+      ],
+      "@myorg/frontend/pages/patients": [
+        "libs/frontend/pages/patients/src/index.ts"
+      ],
       "@myorg/frontend/pages/patients/pages": [
         "libs/frontend/pages/patients/pages/src/index.ts"
       ],
+      "@myorg/frontend/pages/users": ["libs/frontend/pages/users/src/index.ts"],
       "@myorg/frontend/pages/users/pages": [
         "libs/frontend/pages/users/pages/src/index.ts"
       ],

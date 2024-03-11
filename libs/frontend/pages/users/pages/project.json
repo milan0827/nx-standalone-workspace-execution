@@ -1,8 +1,0 @@
-{
-  "name": "frontend-pages-users-pages",
-  "$schema": "../../../../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/frontend/pages/users/pages/src",
-  "projectType": "library",
-  "tags": [],
-  "targets": {}
-}

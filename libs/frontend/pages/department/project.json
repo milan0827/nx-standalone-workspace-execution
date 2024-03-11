@@ -1,0 +1,8 @@
+{
+  "name": "frontend-pages-department",
+  "$schema": "../../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/frontend/pages/department/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
